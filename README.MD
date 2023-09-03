@@ -1,10 +1,6 @@
 ## Installation
 
 ### Install to Chrome/Edge
-
-
-
-### Install to Chrome/Edge
 1. Local Install
 2. Download zip 
 3. Unzip the file
